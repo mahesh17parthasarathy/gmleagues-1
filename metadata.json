@@ -1,0 +1,5 @@
+{
+  "name": "Free Fire Tournament Points Table",
+  "description": "An interactive points table for managing and tracking scores in a Free-Fire tournament. It supports multiple groups and allows for easy score updates for each team.",
+  "requestFramePermissions": []
+}
